@@ -1,5 +1,5 @@
-module github.com/mwildt/golang-decimal
+module github.com/ohrenpiraten/golang-decimal
 
-go 1.18
+go 1.21
 
 require golang.org/x/text v0.3.7
