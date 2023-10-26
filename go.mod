@@ -1,4 +1,4 @@
-module github.com/ohrenpiraten/golang-decimal
+module github.com/ohrenpiraten/go-decimal
 
 go 1.21
 
